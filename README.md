@@ -1,4 +1,8 @@
 Oi... Meu Nome e Pedro Artur sou Acadêmico em ADS!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturxx7&show_icons=true&locale=pt-br&theme=transparent" alt="arturxx7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturxx7&show_icons=true&locale=pt-br&layout=compact" alt="arturxx7" /></p>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturxx7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
