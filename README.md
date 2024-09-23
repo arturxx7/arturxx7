@@ -1,4 +1,4 @@
-Oi... Meu Nome e Pedro Artur sou Acadêmico em ADS!
+👋Oi... Meu Nome e Pedro Artur sou Acadêmico em ADS!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturxx7&show_icons=true&locale=pt-br&theme=transparent" alt="arturxx7" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturxx7&show_icons=true&locale=pt-br&layout=compact" alt="arturxx7" /></p>
 
